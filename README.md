@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Etch-A-Sketch project**
 
-- 👨‍💻 All of my projects are available at **coming soon**
+- 👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
