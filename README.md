@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Szymon 'brexus' Wierzchoś
 - 🌱 I’m currently learning Java, Java Script, CSS, HTML
 - 👀 Check out my latest projects:
-  - Rock, paper & scissors --> https://brexus.github.io/rock-paper-scissors/
+    - ✌️✊ Rock, paper & scissors --> https://brexus.github.io/rock-paper-scissors/
