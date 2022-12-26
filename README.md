@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brexus&label=Profile%20views&color=0e75b6&style=flat" alt="brexus" /> </p>
 
-- 🌱 I’m currently learning **from the Odin Project course**
+
+- 🎓 I’m currently studying at the Lublin University of Technology in the field of **computer science**
+
+- 🌱 I’m currently learning **from the Odin Project course** and **curriculum from freeCodeCamp**
+
+
 
 - 🔭 I’m currently working on **Etch-A-Sketch project**
 
