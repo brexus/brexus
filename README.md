@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **from the Odin Project course** and **curriculum from freeCodeCamp**
 
-- 🔭 I’m currently working on **Etch-A-Sketch project**
+ 🔭 I’m currently working on **Rock, Paper & Scissors v2 project**<!-- **Etch-A-Sketch project** -->
 
 - 👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
 
