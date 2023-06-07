@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brexus&label=Profile%20views&color=0e75b6&style=flat" alt="brexus" /> </p>
 
-- 🎓 I’m currently studying at the Lublin University of Technology in the field of **computer science**
+🎓 I’m currently studying at the Lublin University of Technology in the field of **computer science**
 
-- 🌱 I’m currently learning **from the Odin Project course** and **curriculum from freeCodeCamp**
+🌱 I’m currently learning **from the Odin Project course**
 
- 🔭 I’m currently working on **Rock, Paper & Scissors v2 project**<!-- **Etch-A-Sketch project** -->
+🔭 I’m currently working on **PAI_Project**
 
-- 👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
+👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
 
 
 <p align="left"></p>
