@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **from the Odin Project course**
 
-🔭 I’m currently working on **Library Project**
+🔭 I’m currently working on **Todo List Project**
 
 👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
 
