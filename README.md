@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brexus&label=Profile%20views&color=0e75b6&style=flat" alt="brexus" /> </p>
 
-🎓 I’m currently studying at the Lublin University of Technology in the field of **computer science**
+🎓 I am currently studying at the Lublin University of Technology in the field of **computer science**
 
+🛠️ I am currently working on 2 projects in teams: </br>
+&emsp;&emsp;🡺 Engineering work - Advanced Social Media App for Travelers - (SQL + React.js + Spring) </br>
+&emsp;&emsp;🡺 Invoice Manager App (MongoDB + React.js + Spring) </br>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
