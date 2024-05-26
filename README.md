@@ -5,11 +5,6 @@
 
 🎓 I’m currently studying at the Lublin University of Technology in the field of **computer science**
 
-🌱 I’m currently learning **from the Odin Project course**
-
-👨‍💻 All of my projects are available at [coming soon](https://www.github.com/brexus)
-
-
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
