@@ -1,5 +1,5 @@
 <h3 align="center">I'm Szymon 'brexus' Wierzchoś</h3>
-<h5 align="center">A passionate full stack developer from Poland</h5>
+<h5 align="center">fullstack developer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brexus&label=Profile%20views&color=0e75b6&style=flat" alt="brexus" /> </p>
 
