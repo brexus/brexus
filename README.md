@@ -5,11 +5,6 @@
 * 🎓 **B.Eng. in Computer Science** | Lublin University of Technology
 * 📚 **M.Sc. in Computer Science (In Progress)** | Lublin University of Technology
 
-### ⚡ Currently Building
-
-* 🏥 **MediCore** | Microservices-based healthcare ecosystem integrating EMR, LIS & PIMS workflows
-* 🛠️ **Tech:** Spring Boot, Angular, PostgreSQL
-
 ### 💻 Tech Stack
 
 #### 🌐 Frontend & UI
